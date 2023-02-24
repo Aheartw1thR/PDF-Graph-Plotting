@@ -7,4 +7,4 @@
   
   It is anticipated that the software development will use Java but this is not a requirement.
   
-  # Be noticed, this project cannot import any other libraries
+  # Be noticed, this project cannot import any external libraries
