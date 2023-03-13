@@ -1,4 +1,4 @@
-# 2023 Year QUB Graduation Project PDF-Graph-Plotting
+# 2023 Year Graduation Project PDF-Graph-Plotting
   A PDF file can be a plain text file and its specification is publicly available. Commands are available 
   to write text or graphics to different positions on a page. The purpose of this project is to 
   demonstrate the creation of a PDF file by plotting some basic graphs (as done by for example 
