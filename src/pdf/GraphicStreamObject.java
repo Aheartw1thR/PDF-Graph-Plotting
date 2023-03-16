@@ -118,6 +118,8 @@ public class GraphicStreamObject extends StreamObject {
         this.graphics.add(" " + (centerX + r * CIRCLE_MAGIC * -1) + " " + (centerY - r) + " " + (centerX - r) + " " + (centerY + r * CIRCLE_MAGIC * -1) + " " + (centerX - r) + " " + (centerY) + " c");
         this.graphics.add(" " + (centerX + r * -1) + " " + (centerY + r * CIRCLE_MAGIC) + " " + (centerX - r * CIRCLE_MAGIC) + " " + (centerY + r) + " " + (centerX) + " " + (centerY + r) + " c");
         this.graphics.add(" W");
+        this.graphics.add(" s");
+        this.graphics.add(" Q");
     }
 
     public void addStar(int x, int y, int d) {
